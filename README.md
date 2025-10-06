@@ -1,4 +1,5 @@
 Desafio DIO: Natty or Not? A Explicação Definitiva (Podcast) 🎙️
+
 📒 Descrição
 Este podcast é um entregável de áudio que explica o "Desafio Natty or Not" da DIO, inspirado na analogia do fisiculturismo. O objetivo central do desafio é utilizar IAs Generativas para criar um conteúdo que seja o mais natural e realista possível, a ponto de ser confundido com os criados por humanos. Este episódio detalha o objetivo do desafio e os passos necessários para a submissão.
 
